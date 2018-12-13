@@ -2,5 +2,5 @@
 Rsut 2018 の基本練習リポジトリ.  
 
 ## 教材はこちら,
-- https://doc.rust-lang.org/book/
-- https://doc.rust-jp.rs
+- https://doc.rust-lang.org/book/ (英語版)
+- https://doc.rust-jp.rs (日本語版)
